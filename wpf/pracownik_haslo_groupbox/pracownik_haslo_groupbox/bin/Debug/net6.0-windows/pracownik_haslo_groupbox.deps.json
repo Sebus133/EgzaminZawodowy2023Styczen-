@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pracownik_haslo_groupbox/1.0.0": {
+        "runtime": {
+          "pracownik_haslo_groupbox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pracownik_haslo_groupbox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
